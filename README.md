@@ -3,11 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Graphics%20Developer)](https://git.io/typing-svg)
 </div>
 
-## Hi, I'm ctenosaura1
+## Hi, I'm a ctenosaur.
 
+<img src="metrics.plugin.isocalendar.svg" alt="Commit Calendar">
 
 ## About me
-- **Currently building:** A small Vulkan graphics engine
+- **Currently building:** A small Vulkan graphics engine 
 - **Learning:** Vulkan API, C++
 - **Open to:** useless projects / games
 - **Fun fact:** I'm not actually a ctenosaur
