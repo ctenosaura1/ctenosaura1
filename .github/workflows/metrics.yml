@@ -14,5 +14,6 @@ jobs:
         with:
           filename: isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Hong_Kong
           base: ""
           plugin_isocalendar: yes
