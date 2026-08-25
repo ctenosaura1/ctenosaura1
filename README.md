@@ -5,7 +5,7 @@
 
 ## Hi, I'm a ctenosaur.
 
-<img src="metrics.plugin.isocalendar.svg" alt="Commit Calendar">
+<img src="isocalendar.svg" alt="Commit Calendar">
 
 ## About me
 - **Currently building:** A small Vulkan graphics engine 
