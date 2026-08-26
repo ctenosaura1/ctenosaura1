@@ -8,10 +8,14 @@
 <img src="isocalendar.svg" alt="Commit Calendar">
 
 ## About me
-I code for fun and im interested in graphics programming.
+I code for fun\
 My projects in my repositories might be unstable 
 
 ## Tech Stack
 **Languages:**
-C++
-C#
+![Static Badge](https://img.shields.io/badge/C%2B%2B-blue)
+
+![Static Badge](https://img.shields.io/badge/C%23-purple)
+
+Want to learn: ![Static Badge](https://img.shields.io/badge/C-blue)
+![Static Badge](https://img.shields.io/badge/SQL-orange)
