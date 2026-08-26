@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Graphics%20Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FE&center=true&vCenter=true&width=437&lines=ctenosaura1;WildHydreigonEgg;turnipradish)](https://git.io/typing-svg)
 </div>
 
 ## Hi, I'm a ctenosaur.
