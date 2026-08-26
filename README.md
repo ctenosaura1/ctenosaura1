@@ -14,8 +14,7 @@ My projects in my repositories might be unstable
 ## Tech Stack
 **Languages:**
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue)
-
 ![Static Badge](https://img.shields.io/badge/C%23-purple)
 
 Want to learn: ![Static Badge](https://img.shields.io/badge/C-blue)
-![Static Badge](https://img.shields.io/badge/SQL-orange)
+ ![Static Badge](https://img.shields.io/badge/SQL-orange)
