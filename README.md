@@ -7,12 +7,6 @@
 
 <img src="isocalendar.svg" alt="Commit Calendar">
 
-**Languages:**
-![Static Badge](https://img.shields.io/badge/C%2B%2B-blue)
-![Static Badge](https://img.shields.io/badge/C%23-purple)
-
-Less languages: ![Static Badge](https://img.shields.io/badge/C-blue)
- ![Static Badge](https://img.shields.io/badge/SQL-orange)
-
+the svg is broken :C
 
  lalalalalalalalallaalalalalalalaalalalala
